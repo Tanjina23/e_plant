@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "934221205485",
+    "project_id": "gearth-81571",
+    "storage_bucket": "gearth-81571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934221205485:android:8bb0795e94710a205f61e4",
+        "android_client_info": {
+          "package_name": "com.example.e_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934221205485-0lnqd84kf9pvmn3gfrisg02uepejeo7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_app",
+            "certificate_hash": "20d4a94b773d4a5b88a0a384d75df98ab2c21b9e"
+          }
+        },
+        {
+          "client_id": "934221205485-b7a9ug920jht53at0cf1jqkbhaktqd11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoeBrzSYLmki3Yw0LuXcFRbl9mlzzvokQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934221205485-b7a9ug920jht53at0cf1jqkbhaktqd11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
